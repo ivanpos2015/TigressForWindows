@@ -1,5 +1,6 @@
 # TigressForWindows
-A set of scripts attempting to make tigress more stable when cross compiling for windows x64.
+A set of scripts attempting to make tigress more stable when cross compiling for windows x64. While the result is acceptable, it is a bit messy. I would appreciate 
+any insight into dealing with this in a better fashion.
  
 ## Guideline
 This is the coding guideline I follow to produce mostly stable code.
