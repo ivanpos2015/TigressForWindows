@@ -8,7 +8,7 @@ This is the coding guideline I follow to produce mostly stable code.
 2) Avoid using primitive data types, typedef everything to UINT8, etc.
 
 ## Stability
-Anything not labled here should be assumed as stable.
+Anything not labled here should be assumed as non-notable, and stable.
 
 - [x] Stacked VMs
 - [ ] JIT compiler
